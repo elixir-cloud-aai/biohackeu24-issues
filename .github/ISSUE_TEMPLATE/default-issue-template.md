@@ -7,6 +7,21 @@ assignees: ''
 
 ---
 
+<!-- PLEASE DON'T FORGET TO
+
+- add appropriate labels to your issue
+- associate the issue with project "BioHackathon Europe '24"
+
+As for the labeling, please consider using the following:
+
+- Topic (required): one of "topic: ga4gh-sdk", "topic: jupyterhub", "topic: v-pipe", "topic: wfexs"
+- Type (required): one of "type: code", "type: deployment", "type: docs", "type: meta" (for larger problems to coordinate a bunch of smaller issues using task lists), "type: research" or "type: testing"
+- Language (where applicable): one or more of "language: js/ts", "language: py", "language: rust", "language: snakemake" 
+- Status (where applicable): one of "status: blocked" (requires addressing one or more other issues first) or "status: future" (decided not to work on during hackathon)
+- Flags (where applicable): add "flag: good 1st issue"
+
+-->
+
 **Why?**
 <!-- Describe why this issue is needed. Give enough context so that people not usually working on the topic will understand the motivation. Consider adding links for additional context. -->
 
